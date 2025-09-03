@@ -1,0 +1,28 @@
+{
+  "name": "programming-logic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celiapaivab/programming-logic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/celiapaivab/programming-logic/issues"
+  },
+  "homepage": "https://github.com/celiapaivab/programming-logic#readme",
+  "dependencies": {
+    "chai": "^6.0.1",
+    "mocha": "^11.7.2"
+  }
+}
